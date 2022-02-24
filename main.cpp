@@ -8,7 +8,7 @@
  *
  * @author Anwar S Haidar
  * @version Beta 2/24/2022
- * @Contact anwar.haidar@gmail.com
+ * @contact anwar.haidar@gmail.com
  *
  */
 
